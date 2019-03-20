@@ -61398,7 +61398,7 @@ function (_Component) {
           className: "table-responsive"
         }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("table", {
           className: "table table-bordered table-hover"
-        }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("thead", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Place Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "City Name"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tbody", null, items)));
+        }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("thead", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Attraction Place Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "City Name"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tbody", null, items)));
       }
 
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {

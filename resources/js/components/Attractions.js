@@ -60,7 +60,7 @@ export default class Attractions extends Component {
                     <table className="table table-bordered table-hover">
                         <thead>
                             <tr>
-                                <th>Place Name</th>
+                                <th>Attraction Place Name</th>
                                 <th>City Name</th>
                             </tr>
                         </thead>
